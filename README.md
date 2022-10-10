@@ -2,9 +2,7 @@
 
 Based on html5up’s [Spectral](https://html5up.net/spectral) theme.
 
-Specially made for my customer
-[kegelschiene.net](https://kegelschiene.net/en/), so some functions are
-missing. If you need one, that is not implemented yet, please open an issue!
+Used sbruder/spectral as base for what I wanted.
 
 ## Installation
 
