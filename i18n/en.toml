@@ -2,10 +2,10 @@
 other = "Menu"
 
 [learnmore]
-other = "Learn More"
+other = "Descobre mais"
 
 [name]
-other = "Name"
+other = "Nome"
 
 [email]
 other = "Email"
@@ -17,16 +17,16 @@ other = "Phone"
 other = "Address"
 
 [yourmessage]
-other = "Your Message"
+other = "A tua mensagem"
 
 [send]
-other = "send"
+other = "Enviar"
 
 [reset]
-other = "reset"
+other = "Limpar"
 
 [allarticles]
 other = "all articles"
 
 [readmore]
-other = "Read more…"
+other = "Ler mais…"
