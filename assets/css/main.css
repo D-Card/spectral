@@ -344,6 +344,18 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.wrap-right {
+		text-align: right;
+		float: right;
+		margin: 1em 0 0 2em;
+	}
+
+	.wrap-left {
+		text-align: left;
+		float: left;
+		margin: 1em 2em 0 0;
+	}
+
 /* Row */
 
 	.row {
