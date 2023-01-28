@@ -347,13 +347,13 @@ input, select, textarea {
 	.wrap-right {
 		text-align: right;
 		float: right;
-		margin: 1em 0 0 2em;
+		margin: 0.5em 0 0 2em;
 	}
 
 	.wrap-left {
 		text-align: left;
 		float: left;
-		margin: 1em 2em 0 0;
+		margin: 0.5em 2em 0 0;
 	}
 
 /* Row */
